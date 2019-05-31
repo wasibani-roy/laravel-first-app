@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+# misc
+.env
+#vscode
+.vscode/launch.json
+.vscode/settings.json
+.vscode/
+
+package-lock.json
